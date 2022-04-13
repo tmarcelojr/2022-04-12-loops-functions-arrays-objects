@@ -117,6 +117,7 @@ function setColor(bicycle, color = 'purple', model) {
 
 // ===== FUNCTIONS ARE ARGUMENTS =====
 // Passing an Anonymous Function
+// Functions give me headaches!!!
 // Often functions or methods (functions attached to an object) will require a function be provided as an argument.
 // When we pass a function as an argument inside a function call, we call the function being passed CALLBACKS or higher order functions.
 
