@@ -1,3 +1,6 @@
+// I am changing your file Teo. Hope this does not affect your code
+
+
 // What are arrays?
 // - list of strings or numbers
 // - collection of data
