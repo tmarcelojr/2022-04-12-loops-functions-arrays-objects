@@ -1,3 +1,5 @@
+// why did Teo cross the road? 
+
 // What are arrays?
 // - list of strings or numbers
 // - collection of data
