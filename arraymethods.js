@@ -1,4 +1,4 @@
-// ========= ARRAY METHODS ==========
+// ========= ARRAY METHODS ========== or not
 // We can use array methods to manipulate our arrays
 
 // push strawberry into our array
