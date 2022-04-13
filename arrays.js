@@ -1,3 +1,5 @@
+// Kevin wuz here
+
 // What are arrays?
 // - list of strings or numbers
 // - collection of data
