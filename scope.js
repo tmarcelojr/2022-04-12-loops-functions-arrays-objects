@@ -1,3 +1,5 @@
+//360 no SCOPE
+
 // ===== SCOPE =====
 
 // MDN Doc: https://developer.mozilla.org/en-US/docs/Glossary/Scope
