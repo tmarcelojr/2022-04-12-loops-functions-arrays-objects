@@ -2,6 +2,7 @@
 // - list of strings or numbers
 // - collection of data
 // - ordered list
+// Tosi is commenting this file...
 
 // We declare an array using the square brackets. Should use const to declare arrays.
 // const fruit = ['mango', 'kiwi', 'apple', 'banana', 'oranges', 'strawberry']
@@ -57,10 +58,10 @@ const fruit = ['mango', 'kiwi', 'apple', 'banana']
 
 // Syntax: ...
 
-const arr1 = ['one', 'two']
-const arr2 = ['three', 4]
+// const arr1 = ['one', 'two']
+// const arr2 = ['three', 4]
 
-const arr3 = arr1 + arr2
+// const arr3 = arr1 + arr2
 
 // console.log(arr3)
 // console.log(typeof(arr3))
