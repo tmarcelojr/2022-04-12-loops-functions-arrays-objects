@@ -70,3 +70,4 @@ const arr3 = arr1 + arr2
 const arr4 = ['Ozgur', 5657, ...arr1, {}, 'Harry', ...arr2, () => {}]
 
 console.log(arr4)
+// you rock
