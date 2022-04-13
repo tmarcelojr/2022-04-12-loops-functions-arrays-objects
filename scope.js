@@ -1,3 +1,5 @@
+//How many programmers does it take to change a light bulb?
+//None – It’s a hardware problem
 // ===== SCOPE =====
 
 // MDN Doc: https://developer.mozilla.org/en-US/docs/Glossary/Scope
