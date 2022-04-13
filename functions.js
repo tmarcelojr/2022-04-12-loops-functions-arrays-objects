@@ -300,6 +300,8 @@ const tosi = function () {
 console.log(poornima()) // ReferenceError: Cannot access 'poornima' before initialization
 const poornima = () => 'Hi Poornima!'
 
+// This entire lesson was unbelievably confusing.
+
 
 
 
