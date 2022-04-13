@@ -53,6 +53,9 @@ console.log('REMAINDERS')
 //     console.log(`${num} is odd.`)
 // }
 
+// Array joke: Why did the developer quit his job? Because he didnt' get arrays.
+
+
 // ===== TERNARY OPERATOR =====
 
 // Alternative syntax to if/else statement
