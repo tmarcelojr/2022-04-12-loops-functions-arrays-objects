@@ -19,6 +19,7 @@ const person = {
 // What is our object called? person
 // How many properties do we have? 4
 // How many values do we have? 4
+// (first public edit)
 
 // Print our person obj
 // console.log(person)
